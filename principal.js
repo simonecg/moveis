@@ -8,4 +8,4 @@ function trocaBanner() {
     banners[bannerAtual];
 }
 
-setInternal(trocaBanner, 2000);
+setInternal(trocaBanner, 1000);
